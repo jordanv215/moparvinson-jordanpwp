@@ -121,7 +121,7 @@
 		</nav>
 
 		<!-- container 1 -->
-		<div class="container bg-1 text-center">
+		<div class="container-fluid bg-1 text-center">
 			<h3 class="margin">Jordan Vinson</h3>
 			<img class="img-circle" src="image/jordan-face.jpg" alt="myheadshot" height="200" width="200">
 			<h3>Full Stack Web Developer</h3>
@@ -129,7 +129,7 @@
 
 
 			<!-- contianer 2 -->
-		<div class="container bg-2 text-center">
+		<div class="container-fluid bg-2 text-center">
 			<h3 class="margin">Who Am I?</h3>
 			<p>As a starting full stack web developer, my goal is to commit myself to learning more through experience and
 				work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
@@ -149,7 +149,7 @@
 			</a>
 		</div>
 		<!-- container 3 -->
-		<div class="container bg-3 text-center">
+		<div class="container-fluid bg-3 text-center">
 			<h3 class="margin">What Do I Do?</h3><br>
 			<div class="row">
 				<div class="col-sm-4">
