@@ -129,7 +129,9 @@
 
 
 			<!-- contianer 2 -->
-		<div class="container-fluid bg-2 text-center">
+		<div class="bg-2 text-center">
+			<div class="container">
+				
 			<h3 class="margin">Who Am I?</h3>
 			<p>As a starting full stack web developer, my goal is to commit myself to learning more through experience and
 				work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
@@ -147,31 +149,40 @@
 			<a href="#" class="btn btn-default btn-lg">
 				<span class="glyphicon glyphicon-search"></span> Search
 			</a>
+			</div>
 		</div>
 		<!-- container 3 -->
-		<div class="container-fluid bg-3 text-center">
-			<h3 class="margin">What Do I Do?</h3><br>
-			<div class="row">
-				<div class="col-sm-4">
-					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese
-						cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-						everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the
-						big cheese monterey jack.</p>
-					<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
-				</div>
-				<div class="col-sm-4">
-					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese
-						cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-						everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the
-						big cheese monterey jack.</p>
-					<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
-				</div>
-				<div class="col-sm-4">
-					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese
-						cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-						everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the
-						big cheese monterey jack.</p>
-					<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
+		<div class="bg-3 text-center">
+			<div class="container">
+				<h3 class="margin">What Do I Do?</h3><br>
+				<div class="row">
+					<div class="col-sm-4">
+						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
+							cheese
+							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
+							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
+							the
+							big cheese monterey jack.</p>
+						<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
+					</div>
+					<div class="col-sm-4">
+						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
+							cheese
+							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
+							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
+							the
+							big cheese monterey jack.</p>
+						<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
+					</div>
+					<div class="col-sm-4">
+						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
+							cheese
+							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
+							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
+							the
+							big cheese monterey jack.</p>
+						<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
+					</div>
 				</div>
 			</div>
 		</div>
