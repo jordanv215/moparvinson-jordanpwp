@@ -3,13 +3,15 @@
 	<head>
 		<title>Moparvinson.com</title>
 
-		<meta charset="UTF-8">
+		<meta charset="utf-8">
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<!--font-->
+		<link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
 
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
@@ -42,20 +44,20 @@
 			p {font-size: 16px;}
 			.margin {margin-bottom: 45px;}
 			.bg-1 {
-				background color: #1abc9c; /* THIS IS THE EXAMPLE GREEN COLOR */
-				color: #ffffff;
+				background color: #1cbcb6; 
+				color: #000000;
 			}
 			.bg-2 {
-				background-color: #474e5d; /* DARK BLUE */
-				color: #ffffff;
+				background-color: #474e5d; 
+				color: #fdf9ff;
 			}
 			.bg-3 {
-				background-color: #ffffff; /* WHITE */
+				background-color: #7faebb;
 				color: #555555;
 			}
 			.bg-4 {
-				background-color: #2f2f2f; /* GREY */
-				color: #fff;
+				background-color: #789bac;
+				color: #fbffff;
 			}
 			.container-fluid {
 				padding-top: 70px;
@@ -87,13 +89,13 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Moparvinson.com</a>
+					<a class="navbar-brand" href="#">Moparvinson</a>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#">RESUME</a></li>
-						<li><a href="#">LINKEDIN</a></li>
-						<li><a href="#">GITHUB</a></li>
+						<li><a href="jordan-vinson-resume.pdf"">RESUME</a></li>
+						<li><a href="https://www.linkedin.com/in/jordan-vinson-82387811b?trk=hp-identity-photo">LINKEDIN</a></li>
+						<li><a href="https://github.com/jordanv215">GITHUB</a></li>
 					</ul>
 				</div>
 			</div>
@@ -102,12 +104,12 @@
 		<!-- container 1 -->
 		<div class="container-fluid bg-1 text-center">
 			<h3 class="margin">Jordan Vinson</h3>
-			<img class="img-circle" src="images/jordan-face.jpg" alt="myheadshot" height="200" widgth="250">
+			<img class="img-circle" src="image/jordan-face.jpg" alt="myheadshot" height="200" width="200">
 			<h3>Full Stack Web Developer</h3>
 		</div
 
 
-			<!-- contianer 2 -->
+		<!-- contianer 2 -->
 		<div class="container-fluid bg-2 text-center">
 			<h3 class="margin">Who Am I?</h3>
 			<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the big cheese monterey jack.</p>
@@ -117,18 +119,31 @@
 			</a>
 		</div>
 
-
-
-
-
-
-
-
-
-
-
-
+		<!-- container 3 -->
+		<div class="container-fluid bg-3 text-center">
+			<h3 class="margin">What Do I Do?</h3><br>
+			<div class="row">
+				<div class="col-sm-4">
+					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the big cheese monterey jack.</p>
+					<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
+				</div>
+				<div class="col-sm-4">
+					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the big cheese monterey jack.</p>
+					<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
+				</div>
+				<div class="col-sm-4">
+					<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the big cheese monterey jack.</p>
+					<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
+				</div>
+			</div>
+		</div>
+		
 	</body>
+	</html>
+
+
+
+
 
 	<body class="sfooter">
 		<div class="sfooter-content">
