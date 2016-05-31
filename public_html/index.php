@@ -133,19 +133,57 @@
 			<div class="container">
 				
 			<h3 class="margin">Who Am I?</h3>
-				
-			<p>As a starting full stack web developer, my goal is to commit myself to learning more through experience and
-				work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
-				basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
-				with workflow development through Sharepoint, which gave me some background with computer development, as
-				well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool,
-				I've had heavy experience using computers and computer programs since I was a very young age. I'm very
-				interested in developing anything from applications and games, to websites and programs. My favorite
-				development is more centered towards the front end of websites. If you'd like to contact me with any
-				questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume
-				at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
-				also linked at the top of the page. Thanks for viewing my site!
+			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficcient background in both front and backend code. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
 			</p>
+				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingOne">
+							<h4 class="panel-title">
+								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									My Experience
+								</a>
+							</h4>
+						</div>
+						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+							<div class="panel-body">
+								As a starting full stack web developer, my goal is to commit myself to learning more through experience and
+								work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
+								basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
+								with workflow development through Sharepoint, which gave me some background with computer development, as
+								well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool,
+								I've had heavy experience using computers and computer programs since I was a very young age. I'm very
+								interested in developing anything from applications and games, to websites and programs. My favorite
+								development is more centered towards the front end of websites. If you'd like to contact me with any
+								questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume
+								at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
+								also linked at the top of the page. Thanks for viewing my site!
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingTwo">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+									My Goals
+								</a>
+							</h4>
+						</div>
+						<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+							<div class="panel-body">
+								As a starting full stack web developer, my goal is to commit myself to learning more through experience and
+								work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
+								basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
+								with workflow development through Sharepoint, which gave me some background with computer development, as
+								well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool,
+								I've had heavy experience using computers and computer programs since I was a very young age. I'm very
+								interested in developing anything from applications and games, to websites and programs. My favorite
+								development is more centered towards the front end of websites. If you'd like to contact me with any
+								questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume
+								at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
+								also linked at the top of the page. Thanks for viewing my site!
+							</div>
+						</div>
+					</div>
 			</div>
 		</div>
 		<!-- container 3 -->
