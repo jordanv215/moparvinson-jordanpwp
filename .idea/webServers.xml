@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e09e92eb-b79f-4c4c-9683-cd72a014b553" name="moparvinson-jordanpwp" url="http://bootcamp-coders.cnm.edu/~jvinson3/moparvinson-jordanpwp">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Jordan\Desktop\Bootcamp\ssh-key.openssh" rootFolder="/home/jvinson3/public_html/moparvinson-jordanpwp" accessType="SFTP" username="jvinson3" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
