@@ -1,0 +1,60 @@
+/***
+* header styles
+***/
+/**
+header {
+	background-color: black;
+	color: whitesmoke;
+}
+
+/***
+* body styles
+***/
+/**
+main {
+	padding: 3rem 0;
+}
+
+/***
+* footer styles
+***/
+/**
+footer {
+	background-color: black;
+	color: white;
+	padding: 2rem 0;
+	color: #888;
+}
+
+.foot-content {
+	border: 1px solid;
+	padding: 1rem;
+	margin-bottom: 2rem;
+}
+
+.copyright {
+	font-size: 0.9em;
+	font-style: italic;
+}
+
+
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+/**
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
