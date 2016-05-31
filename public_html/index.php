@@ -112,13 +112,12 @@
 		<!-- contianer 2 -->
 		<div class="container-fluid bg-2 text-center">
 			<h3 class="margin">Who Am I?</h3>
-			<p>I am a full stack web developer. </p>
+			<p>As a starting full stack web developer, my goal is to commit myself to learning more through experience and work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience with workflow development through Sharepoint, which gave me some background with computer development, as well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool, I've had heavy experience using computers and computer programs since I was a very young age. I'm very interested in developing anything from applications and games, to websites and programs. My favorite development is more centered towards the front end of websites. If you'd like to contact me with any questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume at the top of the page. You can also check my Github profile, also </p>
 			<!-- this is a button, change to the same dropdown as before later -->
 			<a href="#" class="btn btn-default btn-lg">
 				<span class="glyphicon glyphicon-search"></span> Search
 			</a>
 		</div>
-
 		<!-- container 3 -->
 		<div class="container-fluid bg-3 text-center">
 			<h3 class="margin">What Do I Do?</h3><br>
