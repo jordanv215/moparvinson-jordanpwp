@@ -107,7 +107,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Moparvinson</a>
+					<a class="navbar-brand" href="#">MOPARVINSON</a>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">
@@ -133,6 +133,7 @@
 			<div class="container">
 				
 			<h3 class="margin">Who Am I?</h3>
+				
 			<p>As a starting full stack web developer, my goal is to commit myself to learning more through experience and
 				work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
 				basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
@@ -145,10 +146,6 @@
 				at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
 				also linked at the top of the page. Thanks for viewing my site!
 			</p>
-			<!-- this is a button, change to the same dropdown as before later -->
-			<a href="#" class="btn btn-default btn-lg">
-				<span class="glyphicon glyphicon-search"></span> Search
-			</a>
 			</div>
 		</div>
 		<!-- container 3 -->
