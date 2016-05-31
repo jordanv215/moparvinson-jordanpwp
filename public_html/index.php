@@ -11,7 +11,7 @@
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <!--font-->
-		<link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
 
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
@@ -112,7 +112,7 @@
 		<!-- contianer 2 -->
 		<div class="container-fluid bg-2 text-center">
 			<h3 class="margin">Who Am I?</h3>
-			<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage cheese cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire the big cheese monterey jack.</p>
+			<p>I am a full stack web developer. </p>
 			<!-- this is a button, change to the same dropdown as before later -->
 			<a href="#" class="btn btn-default btn-lg">
 				<span class="glyphicon glyphicon-search"></span> Search
