@@ -44,7 +44,7 @@
 			body {
 				font: 20px Montserrat, sans-serif;
 				line-height: 1.8;
-				color: #f5f6f7;
+				color: #fdf9ff;
 			}
 
 			p {
@@ -104,14 +104,14 @@
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
+						<span clas	s="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
 					<a class="navbar-brand" href="#">MOPARVINSON</a>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="jordan-vinson-resume.pdf"">RESUME</a></li>
+						<li><a href="jordan-vinson-resume-pdf.pdf"">RESUME</a></li>
 						<li><a href="https://www.linkedin.com/in/jordan-vinson-82387811b?trk=hp-identity-photo">LINKEDIN</a>
 						</li>
 						<li><a href="https://github.com/jordanv215">GITHUB</a></li>
@@ -133,7 +133,7 @@
 			<div class="container">
 				
 			<h3 class="margin">Who Am I?</h3>
-			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficcient background in both front and backend code. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
+			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficient background in both front and backend code. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
 			</p>
 				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
