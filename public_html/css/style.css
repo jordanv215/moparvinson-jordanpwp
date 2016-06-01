@@ -1,5 +1,5 @@
 body {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Quattrocento Sans', sans-serif;
 }
 
 
@@ -8,63 +8,59 @@ body {
 	color: #555555;
 }
 
-/***
-* header styles
-***/
-/**
-header {
-	background-color: black;
-	color: whitesmoke;
-}
 
-/***
-* body styles
-***/
-/**
-main {
-	padding: 3rem 0;
-}
-
-/***
-* footer styles
-***/
-/**
-footer {
-	background-color: black;
-	color: white;
-	padding: 2rem 0;
-	color: #888;
-}
-
-.foot-content {
-	border: 1px solid;
-	padding: 1rem;
-	margin-bottom: 2rem;
-}
-
-.copyright {
-	font-size: 0.9em;
-	font-style: italic;
+.bg-1 {
+	background-color: #fcffff;
+	color: #000000;
 }
 
 
-
-/***
-* Flexbox Sticky Footer
-* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-***/
-
-/*corrects IE min-height bug*/
-/**
-html { display: flex;}
-body { width: 100%;}
-
-.sfooter {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
+.bg-2 {
+	background-color: #474e5d;
+	color: #fdf9ff;
 }
 
-.sfooter-content {
-	flex: 1 0 auto;
+.bg-3 {
+	background-color: #7faebb;
+	color: #555555;
 }
+
+
+.bg-4 {
+	background-color: #789bac;
+	color: #fbffff;
+}
+
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	letter-spacing: 5px;
+}
+
+
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+
+
+body {
+	font: 20px Montserrat, sans-serif;
+	line-height: 1.8;
+	color: #fdf9ff;
+}
+
+p {
+	font-size: 16px;
+}
+
+.margin {
+	margin-bottom: 45px;
+}
+
