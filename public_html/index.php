@@ -146,17 +146,7 @@
 						</div>
 						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 							<div class="panel-body">
-								As a starting full stack web developer, my goal is to commit myself to learning more through experience and
-								work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
-								basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
-								with workflow development through Sharepoint, which gave me some background with computer development, as
-								well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool,
-								I've had heavy experience using computers and computer programs since I was a very young age. I'm very
-								interested in developing anything from applications and games, to websites and programs. My favorite
-								development is more centered towards the front end of websites. If you'd like to contact me with any
-								questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume
-								at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
-								also linked at the top of the page. Thanks for viewing my site!
+								I've always loved computers. Since I was 6, I was playing around on Photoshop, MS Paint, and tons of different games. In high school, I attended a school that used technology based group work as their main teaching point. While attending nexGen Academy, I became even more experienced with Photoshop, as well as becoming proficient in many other Adobe programs, such as Flash and After Effects, and my personal favorite, Adobe Premier Pro. Going to a technology high school also gave me the benefit of typing skills, and I can now type up to 100 words per minute based on typing tests. After graduation, I attended UNM for a short time before landing a job at my mother's IT company, Q-mulus. My main work while there was to help build a business website for a therapeutic company for autism. I also developed many workflows using Sharepoint which, while it is simple compared to that of PHP and JavaScript, gave me a background in coding before I even entered the next chapter of my coding career. That next chapter came from the CNM STEMulus Center, where I attended and graduated from the Deep Dive Coding Bootcamp. At the Bootcamp, I learned and worked with coding platforms PHP, JavaScript, HTML5, CSS, Bootstrap, and others. I am very excited to advance in my career, and learn more languages, while at the same time becoming more proficient with the languages I already have experience using.
 							</div>
 						</div>
 					</div>
@@ -171,13 +161,8 @@
 						<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 							<div class="panel-body">
 								As a starting full stack web developer, my goal is to commit myself to learning more through experience and
-								work. My current skills from the Deep Dive Coding Bootcamp at the STEMulus center, which gave me a good
-								basis in PHP, Bootstrap, CSS, and many other coding platforms. Before the Bootcamp, I had some experience
-								with workflow development through Sharepoint, which gave me some background with computer development, as
-								well as experience with a professional workplace. Due my attendance at nexGen Academy throughout highschool,
-								I've had heavy experience using computers and computer programs since I was a very young age. I'm very
-								interested in developing anything from applications and games, to websites and programs. My favorite
-								development is more centered towards the front end of websites. If you'd like to contact me with any
+								work. I'm very interested in developing anything from applications and games, to websites and programs. My favorite
+								development is more centered towards the front end of websites. I'm hoping to find employment at a startup or large company, although I am also prepared for free-lance work as long as it gives me more experience. If you'd like to contact me with any
 								questions, my info will be at the footer of this site. Alternatively, you can check my LinkedIn or my Resume
 								at the top of the page. You can also check my Github profile to see other projects I've worked on, which is
 								also linked at the top of the page. Thanks for viewing my site!
@@ -192,30 +177,15 @@
 				<h3 class="margin">What Do I Do?</h3><br>
 				<div class="row">
 					<div class="col-sm-4">
-						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
-							cheese
-							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
-							the
-							big cheese monterey jack.</p>
+						<p>I attended Deep Dive Coding Bootcamp at the CNM STEMulus Center in order to gain experience in web development and give me a diverse background of skills. Throughout the class, I was pushed to create many different things, including this web page. The main goal of the class was to prepare the alumni for a career in coding, and have them graduate the class with the skills and experience necessary for a starting position that can set their career off strong.</p>
 						<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
 					</div>
 					<div class="col-sm-4">
-						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
-							cheese
-							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
-							the
-							big cheese monterey jack.</p>
+						<p>During the Deep Dive Bootcamp, myself and 3 other students created a Capstone project called Red Rovr. The basis was to take NASA's data and images from the Curiosity Rover and remodel them in an easy to read format. Basically, we used the NASA Api, and made a dashboard for images and news, along with other functionality such as weather and social media aspects. If you'd like to check it out, head over to redrovr.io and view our work. Maybe you'll gain an interest for Mars.</p>
 						<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
 					</div>
 					<div class="col-sm-4">
-						<p>Monterey jack mascarpone boursin. Pepper jack stinking bishop cheese slices cheesy feet cottage
-							cheese
-							cheese and wine melted cheese swiss. Cheese triangles everyone loves when the cheese comes out
-							everybody's happy mascarpone pecorino queso cheesecake the big cheese. Cheese triangles lancashire
-							the
-							big cheese monterey jack.</p>
+						<p>I started off my life as a mechanic. Since I was 4, my father and I would watch car movies and then go out and work on his many cars. When I was just 16, I completely rebuilt and restored my very first car, a 1974 Dodge Charger SE, along with some help from my dad. Cars and the community based around them will always be something I love, but I knew it wasn't a smart career path. They're still my passion, I just moved from building cars to building websites</p>
 						<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
 					</div>
 				</div>
