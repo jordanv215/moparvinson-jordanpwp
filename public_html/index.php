@@ -81,7 +81,7 @@
 			<div class="container">
 				
 			<h3 class="margin">Who Am I?</h3>
-			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficient background in both front and backend code. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
+			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficient background in both front and back end code. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
 			</p>
 				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
