@@ -40,7 +40,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
-<!--I've tried using many fonts, but I've found the default looks the best. I'm going to leave the font tags in the body and in the CSS (as well as the links above in the script tags) just in case I want to change them at some point. Please ignore those for now.-->
+		<!--I've tried using many fonts, but I've found the default looks the best. I'm going to leave the font tags in the body and in the CSS (as well as the links above in the script tags) just in case I want to change them at some point. Please ignore those for now.-->
 
 	</head>
 	<body>
@@ -79,10 +79,10 @@
 			<!-- contianer 2 -->
 		<div class="bg-2 text-center">
 			<div class="container">
-				
-			<h3 class="margin">Who Am I?</h3>
-			<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficient background in both front and back end coding. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
-			</p>
+
+				<h3 class="margin">Who Am I?</h3>
+				<p>I take pride in calling myself a full stack web developer. I am starting my web development career with a proficient background in both front and back end coding. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
+				</p>
 				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="headingOne">
@@ -117,35 +117,35 @@
 							</div>
 						</div>
 					</div>
+				</div>
 			</div>
-		</div>
-			
 
-		<!-- container 3 -->
-		<div class="bg-3 text-center">
-			<div class="container">
-				<h3 class="margin">What Do I Do?</h3><br>
-				<div class="row">
-					<div class="col-sm-4">
-						<p>I attended Deep Dive Coding Bootcamp at the CNM STEMulus Center in order to gain experience in web development and give me a diverse background of skills. Throughout the class, I was pushed to create many different things, including this web page. The main goal of the class was to prepare the alumni for a career in coding, and have them graduate the class with the skills and experience necessary for a starting position that can set their career off strong.</p>
-						<a href="https://bootcamp-coders.cnm.edu/">
-						<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
-						</a>
-					</div>
-					<div class="col-sm-4">
-						<p>During the Deep Dive Bootcamp, myself and 3 other students created a Capstone project called Red Rovr. The basis was to take NASA's data and images from the Curiosity Rover and remodel them in an easy to read format. Basically, we used the NASA Api, and made a dashboard for images and news, along with other functionality such as weather and social media aspects. If you'd like to check it out, head over to redrovr.io and view our work. Maybe you'll gain an interest for Mars.</p>
-						<a href="https://docs.google.com/drawings/d/1n_S-RLN5OAZTVJ1TNv-z-l-6mU6IkQefEvtCd4ncwYU/edit">
-						<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
-						</a>
-					</div>
-					<div class="col-sm-4">
-						<p>I started off my life as a mechanic. Since I was 4, my father and I would watch car movies and then go out and work on his many cars. When I was just 16, I completely rebuilt and restored my very first car, a 1974 Dodge Charger SE, along with some help from my dad. Cars and the community based around them will always be something I love, but I knew it wasn't a smart career path. They're still my passion, I just moved from building cars to building websites.</p>
-						<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
+
+			<!-- container 3 -->
+			<div class="bg-3 text-center">
+				<div class="container">
+					<h3 class="margin">What Do I Do?</h3><br>
+					<div class="row">
+						<div class="col-sm-4">
+							<p>I attended Deep Dive Coding Bootcamp at the CNM STEMulus Center in order to gain experience in web development and give me a diverse background of skills. Throughout the class, I was pushed to create many different things, including this web page. The main goal of the class was to prepare the alumni for a career in coding, and have them graduate the class with the skills and experience necessary for a starting position that can set their career off strong.</p>
+							<a href="https://bootcamp-coders.cnm.edu/">
+								<img class="img-circle" src="image/deep-dive.png" alt="deepdive" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-sm-4">
+							<p>During the Deep Dive Bootcamp, myself and 3 other students created a Capstone project called Red Rovr. The basis was to take NASA's data and images from the Curiosity Rover and remodel them in an easy to read format. Basically, we used the NASA Api, and made a dashboard for images and news, along with other functionality such as weather and social media aspects. If you'd like to check it out, head over to redrovr.io and view our work. Maybe you'll gain an interest for Mars.</p>
+							<a href="https://docs.google.com/drawings/d/1n_S-RLN5OAZTVJ1TNv-z-l-6mU6IkQefEvtCd4ncwYU/edit">
+								<img class="img-circle" src="image/hubble-mars-opposition.jpg" alt="mars" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-sm-4">
+							<p>I started off my life as a mechanic. Since I was 4, my father and I would watch car movies and then go out and work on his many cars. When I was just 16, I completely rebuilt and restored my very first car, a 1974 Dodge Charger SE, along with some help from my dad. Cars and the community based around them will always be something I love, but I knew it wasn't a smart career path. They're still my passion, I just moved from building cars to building websites.</p>
+							<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100">
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-			
+
 			<!-- footer -->
 			<nav class="navbar navbar-inverse">
 				<div class="container">
