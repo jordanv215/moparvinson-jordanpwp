@@ -139,7 +139,7 @@
 						</a>
 					</div>
 					<div class="col-sm-4">
-						<p>I started off my life as a mechanic. Since I was 4, my father and I would watch car movies and then go out and work on his many cars. When I was just 16, I completely rebuilt and restored my very first car, a 1974 Dodge Charger SE, along with some help from my dad. Cars and the community based around them will always be something I love, but I knew it wasn't a smart career path. They're still my passion, I just moved from building cars to building websites.</p>
+						<p>I started off my life as a mechanic. Since I was 4, my father and I would watch car movies and then go out and work on his many cars. When I was just 16, I completely rebuilt and restored my very first car, a 1974 Dodge Charger SE, along with some help from my dad. Cars and the community based around them will always be something I love, but I knew it wasn't a smart career path. They're still my passion, I just moved from building cars to building websites (click the wrench).</p>
 						<img class="img-circle" src="image/wrench-idk.png" alt="wrench" height="100" width="100" data-toggle="modal" data-target="#myModal">
 						<div class="container">
 
