@@ -34,6 +34,9 @@ body {
 	color: #fbffff;
 }
 
+.modal-dialog {
+	width: 75%;
+}
 
 .navbar {
 	padding-top: 15px;
