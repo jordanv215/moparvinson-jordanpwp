@@ -41,6 +41,7 @@
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
 <!--I've tried using many fonts, but I've found the default looks the best. I'm going to leave the font tags in the body and in the CSS (as well as the links above in the script tags) just in case I want to change them at some point. Please ignore those for now.-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	</head>
 	<body>
@@ -169,8 +170,71 @@
 						
 						
 					</div>
-					
-					
+
+			<div class="modal fade" id="contact-form-modal" tabindex="-1" role="dialog">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-body">
+
+
+
+							<!--Begin Contact Form-->
+							<form id="contact-form" action="php/mailer.php" method="post">
+								<div class="form-group">
+									<label for="name">Name <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-user" aria-hidden="true"></i>
+										</div>
+										<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="email">Email <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-envelope" aria-hidden="true"></i>
+										</div>
+										<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="subject">Subject</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-pencil" aria-hidden="true"></i>
+										</div>
+										<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="message">Message <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-comment" aria-hidden="true"></i>
+										</div>
+										<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+									</div>
+								</div>
+
+								<!-- reCAPTCHA -->
+								<div class="g-recaptcha" data-sitekey="6Lce7iETAAAAAMMOWyA_2wlnlnRZ5tIXtobpYm74"></div>
+
+								<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+								<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+							</form>
+
+							<!--empty area for form error/success output-->
+							<div class="row">
+								<div class="col-xs-12">
+									<div id="output-area"></div>
+								</div>
+							</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
+
 					
 					
 					
@@ -185,14 +249,9 @@
 			<nav class="navbar navbar-inverse">
 				<div class="container">
 					<div class="navbar-header">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand">CONTACT ME</a>
+						<a class="navbar-brand" data-toggle="modal" data-target="#contact-form-modal">CONTACT ME</a>
 					</div>
-					<div class="collapse navbar-collapse" id="myNavbar">
+					<div>
 						<ul class="nav navbar-nav navbar-right">
 							<li><a>Jordanv215@gmail.com</a></li>
 							<li><a>(505)-553-4573</a></li>
