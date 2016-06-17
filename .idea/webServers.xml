@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e09e92eb-b79f-4c4c-9683-cd72a014b553" name="moparvinson.com" url="http://moparvinson.com">
-        <fileTransfer host="moparvinson.com" port="22" privateKey="C:\Users\Jordan\Desktop\Bootcamp\ssh-key.openssh" rootFolder="/home/moparvin/public_html/" accessType="SFTP" passphrase="dfc8dfc6dfdfdfcfdfc8dfdfdfc6dfc6df9bdf9bdf9b" username="moparvin" keyPair="true">
+        <fileTransfer host="moparvinson.com" port="22" privateKey="C:\Users\Jordan\Desktop\Bootcamp\ssh-key.openssh" rootFolder="/home/moparvin/public_html" accessType="SFTP" passphrase="dfc8dfc6dfdfdfcfdfc8dfdfdfc6dfc6df9bdf9bdf9b" username="moparvin" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
